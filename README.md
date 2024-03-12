@@ -1,3 +1,4 @@
+![logo](https://github.com/tarunraheja84/tarunraheja84/blob/main/Reactjs%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
