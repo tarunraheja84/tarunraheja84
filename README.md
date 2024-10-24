@@ -1,7 +1,7 @@
 ![logo](https://github.com/tarunraheja84/tarunraheja84/blob/main/Software_Engineer%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 
-<p align="left">Software Engineer skilled in developing a software application from scratch and delivering it end to end.</p>
+<p align="left">Reactjs, SpringBoot (Golang), AWS developer skilled in developing a software application from scratch and delivering it end to end.</p>
 
 ### Technologies I work with-
 
