@@ -1,7 +1,7 @@
 ![logo](https://github.com/tarunraheja84/tarunraheja84/blob/main/Software_Engineer%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 
-<p align="left">A skilled Reactjs (Nodejs) developer proficient in developing fast loading, user-friendly and SEO-oriented web-applications. Basically, I am a full-stack developer.</p>
+<p align="left">Software Engineer skilled in developing a software application from scratch and delivering it end to end.</p>
 
 ### Technologies I work with-
 
