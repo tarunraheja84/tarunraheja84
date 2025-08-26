@@ -1,7 +1,8 @@
 ![logo](https://github.com/tarunraheja84/tarunraheja84/blob/main/Software_Engineer%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 
-<p align="left">Reactjs, SpringBoot (Golang), AWS developer skilled in developing a software application from scratch and delivering it end to end.</p>
+<p align="left">2 years experienced Reactjs, Redux, Nextjs Frontend developer skilled in developing fully functional websites from
+scratch from development to deployment and production.</p>
 
 ### Technologies I work with-
 
@@ -27,13 +28,4 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Springboot" width="40" height="40"/>
-    </a>
-    <a href="https://golang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
-    </a>
-   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    </a>
-</p>
+    </p>
