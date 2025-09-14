@@ -1,7 +1,7 @@
 ![logo](https://github.com/tarunraheja84/tarunraheja84/blob/main/Software_Engineer%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 
-<p align="left">2 years experienced Reactjs, Nextjs, Nodejs Frontend devloper skilled in developing a software application from
+<p align="left">2 years experienced Reactjs, Nextjs, Nodejs Frontend developer skilled in developing a software application from
 scratch and delivering it end to end.</p>
 
 ### Technologies I work with-
